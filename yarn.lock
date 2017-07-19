@@ -5879,9 +5879,9 @@ vue-template-es2015-compiler@^1.2.2:
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.5.3.tgz#22787de4e37ebd9339b74223bc467d1adee30545"
 
-vue-ya-semantic-elements@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/vue-ya-semantic-elements/-/vue-ya-semantic-elements-0.0.3.tgz#d9b92d0da70fed0e4e4154d965e72ffb47f37b08"
+vue-ya-semantic-elements@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/vue-ya-semantic-elements/-/vue-ya-semantic-elements-0.0.4.tgz#04e34b778702ca015a5dfcedf8044eb3a55968c7"
 
 vue@^2.3.3:
   version "2.4.1"

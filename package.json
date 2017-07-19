@@ -16,7 +16,7 @@
   "dependencies": {
     "vue": "^2.3.3",
     "vue-router": "^2.6.0",
-    "vue-ya-semantic-elements": "^0.0.3"
+    "vue-ya-semantic-elements": "^0.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
