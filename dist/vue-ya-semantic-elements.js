@@ -1,5 +1,5 @@
 /*!
- * vue-ya-semantic-elements v0.0.2 
+ * vue-ya-semantic-elements v0.0.3 
  * (c) 2017 qgp9
  * Released under the MIT License.
  */
