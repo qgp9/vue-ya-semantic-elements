@@ -1,30 +1,20 @@
 # vue-ya-semantic-elements
 
-> Yet another semantic-ui elements componets for Vue2
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+[![npm](https://img.shields.io/npm/v/vue-ya-semantic-elements.svg)](https://www.npmjs.com/package/vue-ya-semantic-elements)
+[![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
-# serve with hot reload at localhost:8080
-npm run dev
+Yet another semantic-ui elements component for Vue2
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 
-# run unit tests
-npm run unit
+## :scroll: Changelog
+Details changes for each release are documented in the [CHANGELOG.md](https://github.com/qgp9/vue-ya-semantic-elements/blob/dev/CHANGELOG.md).
 
-# run e2e tests
-npm run e2e
 
-# run all tests
-npm test
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## :copyright: License
+
+[MIT](http://opensource.org/licenses/MIT)
