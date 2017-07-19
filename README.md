@@ -28,6 +28,7 @@ This components provide two simple way to put semantic-ui classes. Also they are
 ```html
 <ya-button ui-left-primary-big>Big Button</ya-button>
 ```
+![BOOYAH](http://i.imgur.com/JoeKDOC.png)
 
 ### Avaliable elements
 `ya-`
