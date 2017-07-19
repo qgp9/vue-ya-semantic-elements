@@ -1,5 +1,5 @@
 /*!
- * vue-ya-semantic-elements v0.0.3 
+ * vue-ya-semantic-elements v0.0.4 
  * (c) 2017 qgp9
  * Released under the MIT License.
  */
@@ -44,6 +44,7 @@ var componentGenerator = function (element, name, options) { return ({
     if (data.attrs) {
       tag = data.attrs.tag || tag;
       delete data.attrs.tag;
+      var otherAttrs = data.attrs;
       var loop = function ( key ) {
         var splitted = key.split('-');
         var isTrigger = options.trigger[splitted[0]];
@@ -115,7 +116,7 @@ function YaElements (options) {
 
 var plugin = YaElements;
 
-plugin.version = '0.0.2';
+plugin.version = '0.0.3';
 
 plugin.install = function (Vue, options) {
   var components = YaElements(options || {});

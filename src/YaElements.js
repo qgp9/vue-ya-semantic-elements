@@ -36,6 +36,7 @@ export const componentGenerator = (element, name, options) => ({
     if (data.attrs) {
       tag = data.attrs.tag || tag
       delete data.attrs.tag
+      let otherAttrs = data.attrs
       for (let key in (otherAttrs || {})) {
         let splitted = key.split('-')
         const isTrigger = options.trigger[splitted[0]]
