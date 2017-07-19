@@ -7,6 +7,7 @@
 
 Yet another semantic-ui elements component for Vue2
 
+[demo](http://decisive-ship.surge.sh/)
 
 ## Setup
 ```js
