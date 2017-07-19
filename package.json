@@ -1,7 +1,7 @@
 {
   "name": "vue-ya-semantic-elements",
   "description": "Yet another semantic-ui elements component for Vue2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": {
     "name": "qgp9",
     "email": "pauljang9@gmail.com"

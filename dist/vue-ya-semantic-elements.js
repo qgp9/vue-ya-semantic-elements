@@ -1,5 +1,5 @@
 /*!
- * vue-ya-semantic-elements v0.0.0 
+ * vue-ya-semantic-elements v0.0.2 
  * (c) 2017 qgp9
  * Released under the MIT License.
  */
@@ -121,7 +121,7 @@ function YaElements (options) {
 
 var plugin = YaElements;
 
-plugin.version = '0.0.0';
+plugin.version = '0.0.1';
 
 plugin.install = function (Vue, options) {
   var components = YaElements(options || {});
