@@ -7,7 +7,7 @@
 
 Yet another semantic-ui elements component for Vue2
 
-[demo](http://decisive-ship.surge.sh/#/elements) [demo source](https://github.com/qgp9/vue-ya-semantic-demo)
+[demo](http://vue-ya-semantic.netlify.com/#/elements) [source](https://github.com/qgp9/vue-ya-semantic-demo/blob/master/src/components/Elements.vue)
 
 ## Setup
 ```js
